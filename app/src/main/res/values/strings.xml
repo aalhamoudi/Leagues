@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Leagues</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_league">StartLeagueActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_team_list">Teams</string>
+    <string name="title_team_detail">Team Detail</string>
+    <string name="title_activity_help">Help</string>
+    <string name="tournament">
+        A mixed tournament is created by default on application start, to start a new tournament click the \'Start New Tournament\' menu option, and select one of the following three types:\n\n
+        Knockout: the losing team is eliminated from the tournament, last team standing wins the championship\n\n
+        Round Robin: every team plays every other team, the team with highest points wins the championship\n\n
+        Mixed: the losing team is eliminated from the tournament until only 4 remain, afterwards, every remaining team plays every other remaining team, the team with highest points wins the championship\n\n\n
+
+        In the rounds tab (League option in the drawer), the matches of current round are displayed, to play the matches click on the play button in bottom right of the screen.\n\n
+        Once a round has played, the view is updated to reflect the scores, and play button turn into a reload button, which loads the next round.\n\n
+        When the tournament is over, a popup dialog is shown indicating the champion, and the play/reload button is disabled, until a new tournament is started.\n\n
+
+        In the rankings tab (League option in the drawer), the rankings are displayed, and are updated automatically when a round is played.\n\n\n
+
+    </string>
+    <string name="teams">
+        To view to modify the teams, select the Teams option from the drawer.\n\n
+        In the Teams option in the drawer, all available teams are displayed (164 English, Italian, and Spanish teams are included by default).\n\n
+        The toggle buttons at the right portion of each teams determines wither the team is active or not, only active teams participate in the tournament (only 8 teams are active by default).\n\n
+        To view a teams details click on the team, which opens the details view displaying the team icon, name, country, and league.\n\n
+        To edit a team, go to the detail view and click on the edit button, afterwards, click on the edit button again to save the modifications (you can click on the icon to replace it with an image from the device).\n\n
+        To delete teams, check the checkbox of teams you wish to delete and click on the delete button at bottom right of the screen.\n\n
+        To add new team, click on the add team button at bottom right of the screen, enter the team\'s details, and then click on the edit button to save it.\n\n
+        Teams are saved on the devices, and are loaded on startup\n\n
+    </string>
+    <string name="title_activity_start_new_tournament">Start New Tournament</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_add_team">Add Team</string>
+</resources>

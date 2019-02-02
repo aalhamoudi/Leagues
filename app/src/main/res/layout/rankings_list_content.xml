@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+    <View style="@style/horizontalDivider" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <View style="@style/verticalDivider" />
+
+        <TextView
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:text="#"
+            android:id="@+id/rankingsPosition"
+            android:paddingLeft="7.5dp"
+            android:paddingRight="7.5dp"
+            android:textAlignment="center"
+            android:layout_weight="1"
+            android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Team"
+                android:id="@+id/rankingsTeam"
+                android:textAlignment="center"
+            android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+            android:layout_weight="100"
+            android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:text="P"
+                android:id="@+id/rankingsPlayed"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:text="W"
+                android:id="@+id/rankingsWon"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:text="D"
+                android:id="@+id/rankingsDrawn"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:text="L"
+                android:id="@+id/rankingsLost"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:text="GF"
+                android:id="@+id/rankingsGoalsFor"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:text="GA"
+                android:id="@+id/rankingsGoalsAgainst"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider" />
+
+        <TextView
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:text="GD"
+                android:id="@+id/rankingsGoalDifference"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+
+        <TextView
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:text="PTS"
+                android:id="@+id/rankingsPoints"
+                android:textAlignment="center"
+                android:paddingLeft="7.5dp"
+                android:paddingRight="7.5dp"
+                android:layout_weight="1"
+                android:background="@color/tableBackgroundColor" />
+
+        <View style="@style/verticalDivider"/>
+    </LinearLayout>
+    <View style="@style/horizontalDivider" />
+
+</LinearLayout>

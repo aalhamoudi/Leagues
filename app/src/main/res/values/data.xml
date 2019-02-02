@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>England</item>
+        <item>Italy</item>
+        <item>Spain</item>
+        <item>Germany</item>
+        <item>France</item>
+    </string-array>
+    <string-array name="leagues">
+        <item>Premier League</item>
+        <item>Serie A</item>
+        <item>La Liga</item>
+        <item>Bundesliga</item>
+        <item>Ligue 1</item>
+    </string-array>
+</resources>

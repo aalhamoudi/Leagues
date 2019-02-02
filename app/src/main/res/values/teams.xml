@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="english_teams">
+        <item>Accrington Stanley</item>
+        <item>AFC Bournemouth</item>
+        <item>AFC Wimbledon</item>
+        <item>Aldershot Town</item>
+        <item>Alfreton Town</item>
+        <item>Arsenal FC</item>
+        <item>Aston Villa</item>
+        <item>Barnet FC</item>
+        <item>Barnsley FC</item>
+        <item>Bath City</item>
+        <item>Barrow AFC</item>
+        <item>Birmingham City</item>
+        <item>Blackburn Rovers</item>
+        <item>Bradford City</item>
+        <item>Bolton Wanderers</item>
+        <item>Blackpool FC</item>
+        <item>Braintree Town</item>
+        <item>Brentford FC</item>
+        <item>Brighton Hove Albion</item>
+        <item>Bristol City</item>
+        <item>Bristol Rovers</item>
+        <item>Burnley FC</item>
+        <item>Burton Albion</item>
+        <item>Bury FC</item>
+        <item>Cardiff City</item>
+        <item>Cambridge United</item>
+        <item>Carlisle United</item>
+        <item>Charlton Athletic</item>
+        <item>Chelsea FC</item>
+        <item>Cheltenham Town</item>
+        <item>Chesterfield FC</item>
+        <item>Colchester United</item>
+        <item>Coventry City</item>
+        <item>Crawley Town</item>
+        <item>Crewe Alexandra</item>
+        <item>Crystal Palace</item>
+        <item>Dagenham Redbridge</item>
+        <item>Darlington FC</item>
+        <item>Derby County</item>
+        <item>Doncaster Rovers</item>
+        <item>Eastbourne Borough</item>
+        <item>Ebbsfleet United</item>
+        <item>Everton FC</item>
+        <item>Exeter City</item>
+        <item>Fleetwood Town</item>
+        <item>Forest Green Rovers</item>
+        <item>Fulham FC</item>
+        <item>Gateshead FC</item>
+        <item>Gillingham FC</item>
+        <item>Grimsby Town</item>
+        <item>Hartlepool United</item>
+        <item>Hayes Yeading United</item>
+        <item>Hereford United</item>
+        <item>Hull City</item>
+        <item>Huddersfield Town</item>
+        <item>Kettering Town</item>
+        <item>Ipswich Town</item>
+        <item>Kidderminster Harriers</item>
+        <item>Leeds United</item>
+        <item>Leicester City</item>
+        <item>Leyton Orient</item>
+        <item>Lincoln City</item>
+        <item>Liverpool FC</item>
+        <item>Luton Town</item>
+        <item>Macclesfield Town</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Mansfield Town</item>
+        <item>Middlesbrough FC</item>
+        <item>Millwall FC</item>
+        <item>Milton Keynes Dons</item>
+        <item>Morecambe FC</item>
+        <item>Newcastle United</item>
+        <item>Newport County</item>
+        <item>Northampton Town</item>
+        <item>Norwich City</item>
+        <item>Nottingham Forest</item>
+        <item>Notts County</item>
+        <item>Oldham Athletic</item>
+        <item>Peterborough United</item>
+        <item>Oxford United</item>
+        <item>Plymouth Argyle</item>
+        <item>Port Vale</item>
+        <item>Portsmouth FC</item>
+        <item>Preston North End</item>
+        <item>Queens Park Rangers</item>
+        <item>Reading FC</item>
+        <item>Rotherham United</item>
+        <item>Rochdale AFC</item>
+        <item>Scunthorpe United</item>
+        <item>Sheffield United</item>
+        <item>Sheffield Wendesday</item>
+        <item>Shrewsbury Town</item>
+        <item>Southampton FC</item>
+        <item>Southend United</item>
+        <item>Southport FC</item>
+        <item>Stevenage FC</item>
+        <item>Stoke City</item>
+        <item>Stockport County</item>
+        <item>Sunderland AFC</item>
+        <item>Swansea City</item>
+        <item>Tamworth FC</item>
+        <item>Swindon Town</item>
+        <item>Torquay United</item>
+        <item>Tottenham Hotspur</item>
+        <item>Tranmere Rovers</item>
+        <item>Walsall FC</item>
+        <item>West Bromwich Albion</item>
+        <item>Watford FC</item>
+        <item>West Ham United</item>
+        <item>Wigan Athletic</item>
+        <item>Wolverhampton Wanderers</item>
+        <item>Wrexham AFC</item>
+        <item>Wycombe Wanderers</item>
+        <item>Yeovil Town</item>
+        <item>York City</item>
+    </string-array>
+    <string-array name="italian_teams">
+        <item>AC Milan</item>
+        <item>AC Parma</item>
+        <item>AC Cesena</item>
+        <item>AS Roma</item>
+        <item>Atalanta</item>
+        <item>Bologna</item>
+        <item>Cagliari</item>
+        <item>Fiorentina</item>
+        <item>Empoli</item>
+        <item>Chievo Verona</item>
+        <item>Genoa</item>
+        <item>Hellas Verona</item>
+        <item>Internazionale</item>
+        <item>Italy</item>
+        <item>Juventus</item>
+        <item>Livorno</item>
+        <item>Napoli</item>
+        <item>Palermo</item>
+        <item>Perugia</item>
+        <item>Sampdoria</item>
+        <item>SS Lazio</item>
+        <item>Torino</item>
+        <item>Udinese</item>
+        <item>Vicenza</item>
+    </string-array>
+    <string-array name="spanish_teams">
+        <item>Atletico Madrid</item>
+        <item>Athletic Bilbao</item>
+        <item>Celta de Vigo</item>
+        <item>Deportivo Alaves</item>
+        <item>Deportivo La Coruna</item>
+        <item>Espanyol</item>
+        <item>FC Barcelona</item>
+        <item>Malaga CF</item>
+        <item>Getafe</item>
+        <item>Osasuna</item>
+        <item>Rayo Vallecano</item>
+        <item>Real Betis</item>
+        <item>Real Madrid</item>
+        <item>Real Mallorca</item>
+        <item>Real Oviedo</item>
+        <item>Real Sociedad</item>
+        <item>Real Valladolid</item>
+        <item>Real Zaragoza</item>
+        <item>Sevilla</item>
+        <item>Tenerife</item>
+        <item>Sporting Gijon</item>
+        <item>UD Las Palmas</item>
+        <item>Valencia</item>
+        <item>Villareal</item>
+    </string-array>
+</resources>
